@@ -1,0 +1,52 @@
+{
+  "Styled Div": {
+    "prefix": "scd",
+    "body": ["const Div = styled.div`", "${1:  /* ... */}", "`;", "$0"],
+    "description": "Styled Div"
+  },
+  "Styled Span": {
+    "prefix": "scs",
+    "body": ["const Span = styled.span`", "${1:  /* ... */}", "`;", "$0"],
+    "description": "Styled Span"
+  },
+  "Styled Button": {
+    "prefix": "scb",
+    "body": ["const Button = styled.button`", "${1:  /* ... */}", "`;", "$0"],
+    "description": "Styled Button"
+  },
+  "Styled Anchor": {
+    "prefix": "sca",
+    "body": ["const A = styled.a`", "${1:  /* ... */}", "`;", "$0"],
+    "description": "Styled Anchor"
+  },
+  "Styled H1": {
+    "prefix": "sch1",
+    "body": ["const H1 = styled.h1`", "${1:  /* ... */}", "`;", "$0"],
+    "description": "Styled H1"
+  },
+  "Styled H2": {
+    "prefix": "sch2",
+    "body": ["const H1 = styled.h2`", "${1:  /* ... */}", "`;", "$0"],
+    "description": "Styled H2"
+  },
+  "Styled H3": {
+    "prefix": "sch3",
+    "body": ["const H1 = styled.h3`", "${1:  /* ... */}", "`;", "$0"],
+    "description": "Styled H3"
+  },
+  "Styled H4": {
+    "prefix": "sch4",
+    "body": ["const H1 = styled.h4`", "${1:  /* ... */}", "`;", "$0"],
+    "description": "Styled H4"
+  },
+  "Styled H5": {
+    "prefix": "sch5",
+    "body": ["const H1 = styled.h5`", "${1:  /* ... */}", "`;", "$0"],
+    "description": "Styled H5"
+  },
+  "Styled H6": {
+    "prefix": "sch6",
+    "body": ["const H1 = styled.h6`", "${1:  /* ... */}", "`;", "$0"],
+    "description": "Styled H6"
+  }
+}
