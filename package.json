@@ -1,0 +1,29 @@
+{
+  "name": "styled-snippets",
+  "displayName": "Styled-Snippets",
+  "description": "Styled Components Snippets",
+  "version": "1.0.0",
+  "publisher": "ferdelamad",
+  "engines": {
+    "vscode": "^1.30.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "html",
+        "path": "./snippets/snippets.json"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/snippets.json"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/snippets.json"
+      }
+    ]
+  }
+}
