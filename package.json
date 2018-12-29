@@ -1,9 +1,14 @@
 {
   "name": "styled-snippets",
   "displayName": "Styled-Snippets",
-  "description": "Styled Components Snippets",
+  "description": "🙅 Styled Components Snippets",
   "version": "1.0.0",
   "publisher": "ferdelamad",
+  "icon": "icon.png",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ferdelamad/styled-snippets"
+  },
   "engines": {
     "vscode": "^1.30.0"
   },
