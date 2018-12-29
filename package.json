@@ -28,6 +28,18 @@
       {
         "language": "javascriptreact",
         "path": "./snippets/snippets.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/components_snippets.json"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/components_snippets.json"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/components_snippets.json"
       }
     ]
   }

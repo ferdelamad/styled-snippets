@@ -1,5 +1,5 @@
 {
-  "Styled Components Snippets": {
+  "Styled Components Import": {
     "prefix": "impst",
     "body": ["import styled from \"styled-components\"", "$0"],
     "description": "imports styled components"

@@ -1,0 +1,14 @@
+{
+  "Export Styled Div": {
+    "prefix": "escd",
+    "body": [
+      "import styled from 'styled-components'",
+      "$0",
+      "export default styled.div`",
+      "${1:  /* ... */}",
+      "`;",
+      "$0"
+    ],
+    "description": "Styled Div"
+  }
+}
