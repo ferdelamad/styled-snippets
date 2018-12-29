@@ -31,15 +31,27 @@
       },
       {
         "language": "html",
-        "path": "./snippets/components_snippets.json"
+        "path": "./snippets/component_snippets.json"
       },
       {
         "language": "javascript",
-        "path": "./snippets/components_snippets.json"
+        "path": "./snippets/component_snippets.json"
       },
       {
         "language": "javascriptreact",
-        "path": "./snippets/components_snippets.json"
+        "path": "./snippets/component_snippets.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/export_component_snippets.json"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/export_component_snippets.json"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/export_component_snippets.json"
       }
     ]
   }
