@@ -1,0 +1,50 @@
+{
+  "Export Styled Div": {
+    "prefix": "escd",
+    "body": [
+      "import styled from 'styled-components'",
+      "$0",
+      "export const Div = styled.div`",
+      "${1:  /* ... */}",
+      "`;",
+      "$0"
+    ],
+    "description": "Export Styled Div"
+  },
+  "Export Styled Span": {
+    "prefix": "escs",
+    "body": [
+      "import styled from 'styled-components'",
+      "$0",
+      "export const Span = styled.span`",
+      "${1:  /* ... */}",
+      "`;",
+      "$0"
+    ],
+    "description": "Export Styled Span"
+  },
+  "Export Styled Button": {
+    "prefix": "escb",
+    "body": [
+      "import styled from 'styled-components'",
+      "$0",
+      "export const Button = styled.button`",
+      "${1:  /* ... */}",
+      "`;",
+      "$0"
+    ],
+    "description": "Export Styled Button"
+  },
+  "Export Styled Anchor": {
+    "prefix": "esca",
+    "body": [
+      "import styled from 'styled-components'",
+      "$0",
+      "export const A = styled.a`",
+      "${1:  /* ... */}",
+      "`;",
+      "$0"
+    ],
+    "description": "Export Styled Anchor"
+  }
+}
