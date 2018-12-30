@@ -70,8 +70,13 @@
     "description": "Styled List Item"
   },
   "Styled Image": {
-    "prefix": "sci",
+    "prefix": "scim",
     "body": ["const IMG = styled.img`", "${1:  /* ... */}", "`;", "$0"],
     "description": "Styled Image"
+  },
+  "Styled Input": {
+    "prefix": "scin",
+    "body": ["const Input = styled.input`", "${1:  /* ... */}", "`;", "$0"],
+    "description": "Styled Input"
   }
 }
