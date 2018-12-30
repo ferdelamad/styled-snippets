@@ -51,12 +51,12 @@
     "description": "Export Styled Main"
   },
   "Styled Footer": {
-    "prefix": "scf",
+    "prefix": "scfoo",
     "body": ["const Footer = styled.footer`", "${1:  /* ... */}", "`;", "$0"],
     "description": "Styled Footer"
   },
   "Export Styled Footer": {
-    "prefix": "escf",
+    "prefix": "escfoo",
     "body": [
       "import styled from 'styled-components'",
       "$0",
@@ -66,5 +66,39 @@
       "$0"
     ],
     "description": "Export Styled Footer"
+  },
+  "Styled Section": {
+    "prefix": "scs",
+    "body": ["const Section = styled.section`", "${1:  /* ... */}", "`;", "$0"],
+    "description": "Styled Section"
+  },
+  "Export Styled Section": {
+    "prefix": "escs",
+    "body": [
+      "import styled from 'styled-components'",
+      "$0",
+      "export const Section = styled.section`",
+      "${1:  /* ... */}",
+      "`;",
+      "$0"
+    ],
+    "description": "Export Styled Footer"
+  },
+  "Styled Article": {
+    "prefix": "scart",
+    "body": ["const Article = styled.article`", "${1:  /* ... */}", "`;", "$0"],
+    "description": "Styled Article"
+  },
+  "Export Styled Article": {
+    "prefix": "escart",
+    "body": [
+      "import styled from 'styled-components'",
+      "$0",
+      "export const Article = styled.article`",
+      "${1:  /* ... */}",
+      "`;",
+      "$0"
+    ],
+    "description": "Export Styled Article"
   }
 }
