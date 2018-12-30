@@ -46,5 +46,149 @@
       "$0"
     ],
     "description": "Export Styled Anchor"
+  },
+  "Export Styled H1": {
+    "prefix": "esch1",
+    "body": [
+      "import styled from 'styled-components'",
+      "$0",
+      "export const H1 = styled.h1`",
+      "${1:  /* ... */}",
+      "`;",
+      "$0"
+    ],
+    "description": "Export Styled H1"
+  },
+  "Export Styled H2": {
+    "prefix": "esch2",
+    "body": [
+      "import styled from 'styled-components'",
+      "$0",
+      "export const H2 = styled.h2`",
+      "${1:  /* ... */}",
+      "`;",
+      "$0"
+    ],
+    "description": "Export Styled H2"
+  },
+  "Export Styled H3": {
+    "prefix": "esch3",
+    "body": [
+      "import styled from 'styled-components'",
+      "$0",
+      "export const H3 = styled.h3`",
+      "${1:  /* ... */}",
+      "`;",
+      "$0"
+    ],
+    "description": "Export Styled H3"
+  },
+  "Export Styled H4": {
+    "prefix": "esch4",
+    "body": [
+      "import styled from 'styled-components'",
+      "$0",
+      "export const H4 = styled.h4`",
+      "${1:  /* ... */}",
+      "`;",
+      "$0"
+    ],
+    "description": "Export Styled H4"
+  },
+  "Export Styled H5": {
+    "prefix": "esch5",
+    "body": [
+      "import styled from 'styled-components'",
+      "$0",
+      "export const H5 = styled.h5`",
+      "${1:  /* ... */}",
+      "`;",
+      "$0"
+    ],
+    "description": "Export Styled H5"
+  },
+  "Export Styled H6": {
+    "prefix": "esch6",
+    "body": [
+      "import styled from 'styled-components'",
+      "$0",
+      "export const H6 = styled.h6`",
+      "${1:  /* ... */}",
+      "`;",
+      "$0"
+    ],
+    "description": "Export Styled H6"
+  },
+  "Export Styled Paragraph": {
+    "prefix": "escp",
+    "body": [
+      "import styled from 'styled-components'",
+      "$0",
+      "export const P = styled.p`",
+      "${1:  /* ... */}",
+      "`;",
+      "$0"
+    ],
+    "description": "Export Styled Paragraph"
+  },
+  "Export Styled Ordered List": {
+    "prefix": "escol",
+    "body": [
+      "import styled from 'styled-components'",
+      "$0",
+      "export const OL = styled.ol`",
+      "${1:  /* ... */}",
+      "`;",
+      "$0"
+    ],
+    "description": "Export Styled Ordered List"
+  },
+  "Export Styled Unordered List": {
+    "prefix": "escul",
+    "body": [
+      "import styled from 'styled-components'",
+      "$0",
+      "export const UL = styled.ul`",
+      "${1:  /* ... */}",
+      "`;",
+      "$0"
+    ],
+    "description": "Export Styled Unordered List"
+  },
+  "Export Styled List Item": {
+    "prefix": "escli",
+    "body": [
+      "import styled from 'styled-components'",
+      "$0",
+      "export const LI = styled.li`",
+      "${1:  /* ... */}",
+      "`;",
+      "$0"
+    ],
+    "description": "Export Styled List Item"
+  },
+  "Export Styled Image": {
+    "prefix": "escim",
+    "body": [
+      "import styled from 'styled-components'",
+      "$0",
+      "export const IMG = styled.img`",
+      "${1:  /* ... */}",
+      "`;",
+      "$0"
+    ],
+    "description": "Export Styled Image"
+  },
+  "Export Styled Input": {
+    "prefix": "escin",
+    "body": [
+      "import styled from 'styled-components'",
+      "$0",
+      "export const Input = styled.input`",
+      "${1:  /* ... */}",
+      "`;",
+      "$0"
+    ],
+    "description": "Export Styled Input"
   }
 }
