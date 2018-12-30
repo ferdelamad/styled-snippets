@@ -78,5 +78,10 @@
     "prefix": "scin",
     "body": ["const Input = styled.input`", "${1:  /* ... */}", "`;", "$0"],
     "description": "Styled Input"
+  },
+  "Styled Form": {
+    "prefix": "scf",
+    "body": ["const Form = styled.form`", "${1:  /* ... */}", "`;", "$0"],
+    "description": "Styled Form"
   }
 }

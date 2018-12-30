@@ -190,5 +190,17 @@
       "$0"
     ],
     "description": "Export Styled Input"
+  },
+  "Export Styled Form": {
+    "prefix": "escf",
+    "body": [
+      "import styled from 'styled-components'",
+      "$0",
+      "export const Form = styled.form`",
+      "${1:  /* ... */}",
+      "`;",
+      "$0"
+    ],
+    "description": "Export Styled Form"
   }
 }
