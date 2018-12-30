@@ -22,5 +22,20 @@
     "prefix": "scp",
     "body": ["${props => props.theme.${1:property}};"],
     "description": "Styled Components Props"
+  },
+  "Styled Components Hover": {
+    "prefix": "sch",
+    "body": [":hover {", "  ${1}", "}", "$0"],
+    "description": "Styled Components Hover"
+  },
+  "Styled Components Before": {
+    "prefix": "scb",
+    "body": ["::before {", "  ${1}", "}", "$0"],
+    "description": "Styled Components Before"
+  },
+  "Styled Components After": {
+    "prefix": "sca",
+    "body": ["::after {", "  ${1}", "}", "$0"],
+    "description": "Styled Components After"
   }
 }
