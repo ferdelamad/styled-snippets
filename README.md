@@ -1,20 +1,20 @@
 # Styled-Snippets
 
 <div align="center">
-  <img src="https://github.com/ferdelamad/styled-snippets/raw/master/icon.png" width="20%"><br />
+  <img src="https://github.com/ferdelamad/styled-snippets/raw/master/assets/icon.png" width="20%"><br />
   <p>Code your Styled Components better 😎, faster 🏃‍ & stronger 💪!</p>
 </div>
 
 ## Exporting a component example
 
 <div align="center">
-  <img src="http://g.recordit.co/kHs7sq7SZP.gif" width="80%"><br />
+  <img src="https://github.com/ferdelamad/styled-snippets/raw/master/assets/exporting_component.gif" width="80%"><br />
 </div>
 
 ## Creating a component example
 
 <div align="center">
-  <img src="http://g.recordit.co/eOrLRiHw1R.gif" width="80%"><br />
+  <img src="https://github.com/ferdelamad/styled-snippets/raw/master/assets/exporting_component.gif" width="80%"><br />
 </div>
 
 ## Supported languages (file extensions)
