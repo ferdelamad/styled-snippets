@@ -1,18 +1,18 @@
 {
   "Styled Components Import": {
     "prefix": "isc",
-    "body": ["import styled from 'styled-components'", "$0"],
+    "body": ["import styled from 'styled-components';", "$0"],
     "description": "Import Styled Components"
   },
   "Styled Components Import-Native": {
     "prefix": "iscn",
-    "body": ["import styled from 'styled-components/native'", "$0"],
+    "body": ["import styled from 'styled-components/native';", "$0"],
     "description": "Import Styled Components-Native"
   },
   "Styled Components Global Style": {
     "prefix": "scg",
     "body": [
-      "import { createGlobalStyle } from 'styled-components'",
+      "import { createGlobalStyle } from 'styled-components';",
       "$0",
       "const GlobalStyle = createGlobalStyle`",
       "  body {",

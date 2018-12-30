@@ -7,11 +7,13 @@
   "Export Styled Header": {
     "prefix": "esch",
     "body": [
-      "import styled from 'styled-components'",
+      "import styled from 'styled-components';",
       "$0",
-      "export const Header = styled.header`",
+      "const Header = styled.header`",
       "${1:  /* ... */}",
       "`;",
+      "$0",
+      "export default Header;",
       "$0"
     ],
     "description": "Export Styled Header"
@@ -24,11 +26,13 @@
   "Export Styled Nav": {
     "prefix": "escn",
     "body": [
-      "import styled from 'styled-components'",
+      "import styled from 'styled-components';",
       "$0",
-      "export const Nav = styled.nav`",
+      "const Nav = styled.nav`",
       "${1:  /* ... */}",
       "`;",
+      "$0",
+      "export default Nav;",
       "$0"
     ],
     "description": "Export Styled Nav"
@@ -41,11 +45,13 @@
   "Export Styled Main": {
     "prefix": "escm",
     "body": [
-      "import styled from 'styled-components'",
+      "import styled from 'styled-components';",
       "$0",
-      "export const Main = styled.main`",
+      "const Main = styled.main`",
       "${1:  /* ... */}",
       "`;",
+      "$0",
+      "export default Main;",
       "$0"
     ],
     "description": "Export Styled Main"
@@ -58,11 +64,13 @@
   "Export Styled Footer": {
     "prefix": "escfoo",
     "body": [
-      "import styled from 'styled-components'",
+      "import styled from 'styled-components';",
       "$0",
-      "export const Footer = styled.footer`",
+      "const Footer = styled.footer`",
       "${1:  /* ... */}",
       "`;",
+      "$0",
+      "export default Footer;",
       "$0"
     ],
     "description": "Export Styled Footer"
@@ -75,14 +83,16 @@
   "Export Styled Section": {
     "prefix": "escs",
     "body": [
-      "import styled from 'styled-components'",
+      "import styled from 'styled-components';",
       "$0",
-      "export const Section = styled.section`",
+      "const Section = styled.section`",
       "${1:  /* ... */}",
       "`;",
+      "$0",
+      "export default Section;",
       "$0"
     ],
-    "description": "Export Styled Footer"
+    "description": "Export Styled Section"
   },
   "Styled Article": {
     "prefix": "scart",
@@ -92,11 +102,13 @@
   "Export Styled Article": {
     "prefix": "escart",
     "body": [
-      "import styled from 'styled-components'",
+      "import styled from 'styled-components';",
       "$0",
-      "export const Article = styled.article`",
+      "const Article = styled.article`",
       "${1:  /* ... */}",
       "`;",
+      "$0",
+      "export default Article;",
       "$0"
     ],
     "description": "Export Styled Article"
