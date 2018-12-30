@@ -1,7 +1,26 @@
 {
   "Styled Components Import": {
-    "prefix": "impst",
-    "body": ["import styled from \"styled-components\"", "$0"],
-    "description": "imports styled components"
+    "prefix": "isc",
+    "body": ["import styled from 'styled-components'", "$0"],
+    "description": "Import Styled Components"
+  },
+  "Styled Components Global Style": {
+    "prefix": "scg",
+    "body": [
+      "import { createGlobalStyle } from 'styled-components'",
+      "$0",
+      "const GlobalStyle = createGlobalStyle`",
+      "  body {",
+      "    ${1}",
+      "  }",
+      "`;",
+      "$0"
+    ],
+    "description": "Import Styled Components"
+  },
+  "Styled Components Props": {
+    "prefix": "scp",
+    "body": ["${props => props.theme.${1:property}};"],
+    "description": "Styled Components Props"
   }
 }
