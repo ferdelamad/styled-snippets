@@ -1,12 +1,23 @@
 # Styled-Snippets
 
-<img src="icon.png" width="25%"><br />
+<div align="center">
+  <img src="icon.png" width="25%"><br />
+  <p>Code your Styled Components better 😎, faster 🏃‍ & stronger 💪!</p>
+</div>
 
-Code your Styled Components better 😎, faster 🏃‍ & stronger 💪!
+## Exporting a component example
+
+<div align="center">
+  <img src="http://g.recordit.co/kHs7sq7SZP.gif" width="100%"><br />
+</div>
+
+## Creating a component example
+
+<div align="center">
+  <img src="http://g.recordit.co/eOrLRiHw1R.gif" width="100%"><br />
+</div>
 
 ## Supported languages (file extensions)
-
----
 
 - JavaScript/React (.jsx)
 - JavaScript (.js)
