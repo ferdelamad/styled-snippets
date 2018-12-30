@@ -60,7 +60,7 @@
     "description": "Styled Ordered List"
   },
   "Styled Unordered List": {
-    "prefix": "sul",
+    "prefix": "scul",
     "body": ["const UL = styled.ul`", "${1:  /* ... */}", "`;", "$0"],
     "description": "Styled Unordered List"
   },
@@ -78,10 +78,5 @@
     "prefix": "scin",
     "body": ["const Input = styled.input`", "${1:  /* ... */}", "`;", "$0"],
     "description": "Styled Input"
-  },
-  "Styled Form": {
-    "prefix": "scf",
-    "body": ["const Form = styled.form`", "${1:  /* ... */}", "`;", "$0"],
-    "description": "Styled Form"
   }
 }
