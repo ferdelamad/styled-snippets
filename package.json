@@ -52,6 +52,18 @@
       {
         "language": "javascriptreact",
         "path": "./snippets/export_component_snippets.json"
+      },
+      {
+        "language": "html",
+        "path": "./snippets/html5components_snippets.json"
+      },
+      {
+        "language": "javascript",
+        "path": "./snippets/html5components_snippets.json"
+      },
+      {
+        "language": "javascriptreact",
+        "path": "./snippets/html5components_snippets.json"
       }
     ]
   }

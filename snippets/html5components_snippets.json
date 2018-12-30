@@ -1,0 +1,70 @@
+{
+  "Styled Header": {
+    "prefix": "sch",
+    "body": ["const Header = styled.header`", "${1:  /* ... */}", "`;", "$0"],
+    "description": "Styled Header"
+  },
+  "Export Styled Header": {
+    "prefix": "esch",
+    "body": [
+      "import styled from 'styled-components'",
+      "$0",
+      "export const Header = styled.header`",
+      "${1:  /* ... */}",
+      "`;",
+      "$0"
+    ],
+    "description": "Export Styled Header"
+  },
+  "Styled Nav": {
+    "prefix": "scn",
+    "body": ["const Nav = styled.nav`", "${1:  /* ... */}", "`;", "$0"],
+    "description": "Styled Nav"
+  },
+  "Export Styled Nav": {
+    "prefix": "escn",
+    "body": [
+      "import styled from 'styled-components'",
+      "$0",
+      "export const Nav = styled.nav`",
+      "${1:  /* ... */}",
+      "`;",
+      "$0"
+    ],
+    "description": "Export Styled Nav"
+  },
+  "Styled Main": {
+    "prefix": "scm",
+    "body": ["const Main = styled.main`", "${1:  /* ... */}", "`;", "$0"],
+    "description": "Styled Main"
+  },
+  "Export Styled Main": {
+    "prefix": "escm",
+    "body": [
+      "import styled from 'styled-components'",
+      "$0",
+      "export const Main = styled.main`",
+      "${1:  /* ... */}",
+      "`;",
+      "$0"
+    ],
+    "description": "Export Styled Main"
+  },
+  "Styled Footer": {
+    "prefix": "scf",
+    "body": ["const Footer = styled.footer`", "${1:  /* ... */}", "`;", "$0"],
+    "description": "Styled Footer"
+  },
+  "Export Styled Footer": {
+    "prefix": "escf",
+    "body": [
+      "import styled from 'styled-components'",
+      "$0",
+      "export const Footer = styled.footer`",
+      "${1:  /* ... */}",
+      "`;",
+      "$0"
+    ],
+    "description": "Export Styled Footer"
+  }
+}
