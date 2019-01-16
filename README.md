@@ -14,7 +14,7 @@
 ## Creating a component example
 
 <div align="center">
-  <img src="https://github.com/ferdelamad/styled-snippets/raw/master/assets/exporting_component.gif" width="80%"><br />
+  <img src="https://github.com/ferdelamad/styled-snippets/raw/master/assets/creating_component.gif" width="80%"><br />
 </div>
 
 ## Supported languages (file extensions)
