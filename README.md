@@ -21,6 +21,8 @@
 
 - JavaScript/React (.jsx)
 - JavaScript (.js)
+- TypeScript/React (.tsx)
+- TypeScript (.ts)
 - Html (.html)
 
 ## General Snippets
