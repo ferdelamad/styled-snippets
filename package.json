@@ -2,7 +2,7 @@
   "name": "styled-snippets",
   "displayName": "Styled-Snippets",
   "description": "🙅 Styled Components Snippets",
-  "version": "1.0.1",
+  "version": "1.0.3",
   "publisher": "ferdelamad",
   "icon": "assets/icon.png",
   "repository": {
@@ -34,6 +34,14 @@
         "path": "./snippets/snippets.json"
       },
       {
+        "language": "typescript",
+        "path": "./snippets/snippets.json"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/snippets.json"
+      },
+      {
         "language": "html",
         "path": "./snippets/component_snippets.json"
       },
@@ -46,6 +54,14 @@
         "path": "./snippets/component_snippets.json"
       },
       {
+        "language": "typescript",
+        "path": "./snippets/component_snippets.json"
+      },
+      {
+        "language": "typescriptreact",
+        "path": "./snippets/component_snippets.json"
+      },
+      {
         "language": "html",
         "path": "./snippets/export_component_snippets.json"
       },
@@ -55,6 +71,14 @@
       },
       {
         "language": "javascriptreact",
+        "path": "./snippets/export_component_snippets.json"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/export_component_snippets.json"
+      },
+      {
+        "language": "typescriptreact",
         "path": "./snippets/export_component_snippets.json"
       },
       {
@@ -67,6 +91,14 @@
       },
       {
         "language": "javascriptreact",
+        "path": "./snippets/html5components_snippets.json"
+      },
+      {
+        "language": "typescript",
+        "path": "./snippets/html5components_snippets.json"
+      },
+      {
+        "language": "typescriptreact",
         "path": "./snippets/html5components_snippets.json"
       }
     ]
